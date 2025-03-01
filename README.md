@@ -25,6 +25,15 @@ The app transforms a traditional test into a digital, engaging, and customizable
 - **Grade Management** 🧑‍🏫:  
   Allows viewing and managing the history of tests.
 
+- **Password Protected Management Area** 🔐:  
+  The app's management area, which includes settings, grade history, and more, is accessible only with a password. The password is: `@michele.bisignano_`.
+
+- **Default Question File** 📄:  
+  By default, the application includes a preloaded question file with legal questions in Italian.
+
+- **Instructions for Custom Question Files** 📂:  
+  The app provides information on how to upload custom question files.
+
 ---
 
 ## Technologies Used 💻  
@@ -35,16 +44,33 @@ The app transforms a traditional test into a digital, engaging, and customizable
 ---
 
 ## How to Use the Project 📦  
-1. Download the repository
-2. Upload your `.txt` file as a question database.
-4. Run the project to test the application.
+You can download the project in two ways:
+
+1.1 **Using Git Command Line**:  
+   Clone the repository to your local machine using the following command:
+   ```bash
+   git clone https://github.com/your-username/ImpiccatoTeacher.git
+   ```
+
+1.2 **Downloading as a ZIP File**:  
+   - Go to the GitHub repository page.
+   - Click on the green "Code" button.
+   - Select "Download ZIP".
+   - Extract the downloaded ZIP file to your desired location.
+
+2. **Upload Your Question Database**:  
+   - Create a `.txt` file following the format specified in the "Instructions for the `.txt` File" section.
+   - You can save the file in the `Database` directory of the project, or in any location on your computer.
+   - Follow the instructions provided in the app to link the question file by copying the path of the database after pressing the "Caricamento" button.
+
+3. **Run the Project**:
+   Click the file "impiccato.exe" and have fun! 😊
 ---
 
 ## Instructions for the `.txt` File 📝  
 The question database must be created by the teacher in a plain `.txt` file. Each entry should follow one of these formats:
 - **Alternating lines:** Write the question on one line and the answer on the next.  
 - **Single line:** Write the question and answer on the same line, separated by `@`.  
-
 
 ---
 
@@ -66,4 +92,3 @@ All skills and knowledge used in this project were acquired through self-learnin
 - #Unity
 - #EducationalApp
 - #DigitalAssessment
-
