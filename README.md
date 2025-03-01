@@ -43,28 +43,29 @@ The app transforms a traditional test into a digital, engaging, and customizable
 
 ---
 
-## How to Use the Project 📦  
+# How to Use the Project 📦
+
 You can download the project in two ways:
 
-1.1 **Using Git Command Line**:  
-   Clone the repository to your local machine using the following command:
-   ```bash
-   git clone https://github.com/your-username/ImpiccatoTeacher.git
-   ```
+### 1 Using Git Command Line:
+Clone the repository to your local machine using the following command:
+```bash
+git clone https://github.com/your-username/ImpiccatoTeacher.git
+```
 
-1.2 **Downloading as a ZIP File**:  
-   - Go to the GitHub repository page.
-   - Click on the green "Code" button.
-   - Select "Download ZIP".
-   - Extract the downloaded ZIP file to your desired location.
+### 2 Downloading as a ZIP File:
+1. Go to the GitHub repository page.
+2. Click on the green "Code" button.
+3. Select "Download ZIP".
+4. Extract the downloaded ZIP file to your desired location.
 
-2. **Upload Your Question Database**:  
-   - Create a `.txt` file following the format specified in the "Instructions for the `.txt` File" section.
-   - You can save the file in the `Database` directory of the project, or in any location on your computer.
-   - Follow the instructions provided in the app to link the question file by copying the path of the database after pressing the "Caricamento" button.
+### Upload Your Question Database:
+1. Create a `.txt` file following the format specified in the "Instructions for the .txt File" section.
+2. You can save the file in the `Database` directory of the project, or in any location on your computer.
+3. Follow the instructions provided in the app to link the question file by copying the path of the database after pressing the "Caricamento" button.
 
-3. **Run the Project**:
-   Click the file "impiccato.exe" and have fun! 😊
+### Run the Project:
+1. Click the file `impiccato.exe` and have fun! 😊
 ---
 
 ## Instructions for the `.txt` File 📝  
