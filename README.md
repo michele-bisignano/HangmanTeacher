@@ -20,16 +20,16 @@ The app transforms a traditional test into a digital, engaging, and customizable
   - Test duration 
   - Number of questions 
   - Penalty for incorrect answers  
-  - Enabling or disabling the random question mode   
+  - Enabling or disabling random question mode   
 
 - **Grade Management** 🧑‍🏫:  
-  Allows viewing and managing the history of tests.
+  View and manage the test history.
 
 - **Password Protected Management Area** 🔐:  
   The app's management area, which includes settings, grade history, and more, is accessible only with a password. The password is: `@michele.bisignano_`.
 
 - **Default Question File** 📄:  
-  By default, the application includes a preloaded question file with legal questions in Italian.
+  By default, the application includes a preloaded question file with law-related questions in Italian.
 
 - **Instructions for Custom Question Files** 📂:  
   The app provides information on how to upload custom question files.
@@ -50,7 +50,7 @@ You can download the project in two ways:
 ### 1. Using Git Command Line:
 Clone the repository to your local machine using the following command:
 ```bash
-git clone https://github.com/your-username/ImpiccatoTeacher.git
+git clone https://github.com/BisyB/ImpiccatoTeacher.git
 ```
 
 ### 2. Downloading as a ZIP File:
@@ -63,7 +63,7 @@ Instead of using the command line, you can follow these instructions:
 ### Upload Your Question Database:
 1. Create a `.txt` file following the format specified in the "Instructions for the .txt File" section.
 2. You can save the file in the `Database` directory of the project, or in any location on your computer.
-3. Follow the instructions provided in the app to link the question file by copying the path of the database after pressing the "Caricamento" button.
+3. Follow the instructions provided in the app to link the question file. To do this, copy the file path after pressing the 'Caricamento' button.
 
 ### Run the Project:
 1. Click the file `impiccato.exe` and have fun! 😊
