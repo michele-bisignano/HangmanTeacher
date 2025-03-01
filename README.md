@@ -47,13 +47,13 @@ The app transforms a traditional test into a digital, engaging, and customizable
 
 You can download the project in two ways:
 
-### 1 Using Git Command Line:
+### 1. Using Git Command Line:
 Clone the repository to your local machine using the following command:
 ```bash
 git clone https://github.com/your-username/ImpiccatoTeacher.git
 ```
 
-### 2 Downloading as a ZIP File:
+### 2. Downloading as a ZIP File:
 Instead of using the command line, you can follow these instructions:
 1. Go to the GitHub repository page.
 2. Click on the green "Code" button.
