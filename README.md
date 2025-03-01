@@ -54,14 +54,13 @@ git clone https://github.com/your-username/ImpiccatoTeacher.git
 ```
 
 ### 2 Downloading as a ZIP File:
+Instead of using the command line, you can follow these instructions:
 1. Go to the GitHub repository page.
 2. Click on the green "Code" button.
 3. Select "Download ZIP".
 4. Extract the downloaded ZIP file to your desired location.
 
 ### Upload Your Question Database:
-
-Instead of using the command line, you can follow these instructions:
 1. Create a `.txt` file following the format specified in the "Instructions for the .txt File" section.
 2. You can save the file in the `Database` directory of the project, or in any location on your computer.
 3. Follow the instructions provided in the app to link the question file by copying the path of the database after pressing the "Caricamento" button.
