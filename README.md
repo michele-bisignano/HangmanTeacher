@@ -56,7 +56,7 @@ git clone https://github.com/BisyB/ImpiccatoTeacher.git
 ### 2. Downloading as a ZIP File:
 2. **Download the ZIP file**:  
    Click the link below to download the latest version of the app:  
-   👉 [Download Hangman Game](https://github.com/BisyB/Hangman/archive/refs/heads/main.zip)
+   👉 [Download Hangman Game](https://github.com/BisyB/HangmanTeacher/archive/refs/heads/main.zip)
    
 
 ### Upload Your Question Database:
