@@ -54,11 +54,10 @@ git clone https://github.com/BisyB/ImpiccatoTeacher.git
 ```
 
 ### 2. Downloading as a ZIP File:
-Instead of using the command line, you can follow these instructions:
-1. Go to the GitHub repository page.
-2. Click on the green "Code" button.
-3. Select "Download ZIP".
-4. Extract the downloaded ZIP file to your desired location.
+2. **Download the ZIP file**:  
+   Click the link below to download the latest version of the app:  
+   👉 [Download Hangman Game](https://github.com/BisyB/Hangman/archive/refs/heads/main.zip)
+   
 
 ### Upload Your Question Database:
 1. Create a `.txt` file following the format specified in the "Instructions for the .txt File" section.
