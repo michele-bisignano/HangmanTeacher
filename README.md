@@ -50,7 +50,7 @@ You can download the project in two ways:
 ### 1. Using Git Command Line:
 Clone the repository to your local machine using the following command:
 ```bash
-git clone https://github.com/BisyB/ImpiccatoTeacher.git
+git clone https://github.com/BisyB/HangmanTeacher.git
 ```
 
 ### 2. Downloading as a ZIP File:
