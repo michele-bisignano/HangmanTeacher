@@ -50,13 +50,13 @@ You can download the project in two ways:
 ### 1. Using Git Command Line:
 Clone the repository to your local machine using the following command:
 ```bash
-git clone https://github.com/BisyB/HangmanTeacher.git
+git clone https://github.com/michele-bisignano/HangmanTeacher.git
 ```
 
 ### 2. Downloading as a ZIP File:
 2. **Download the ZIP file**:  
    Click the link below to download the latest version of the app:  
-   👉 [Download Hangman Game](https://github.com/BisyB/HangmanTeacher/archive/refs/heads/main.zip)
+   👉 [Download Hangman Game](https://github.com/michele-bisignano/HangmanTeacher/archive/refs/heads/main.zip)
    
 
 ### Upload Your Question Database:
